@@ -13,8 +13,8 @@
     
 
     <engines>
-      <engine name="cordova-android" version=">=4.0.0" />
-      <engine name="cordova-ios" version=">=3.8.0" />
+      <engine name="cordova-android" version=">=3.5.1" />
+      <engine name="cordova-ios" version=">=3.5.1" />
     </engines>
 
 
